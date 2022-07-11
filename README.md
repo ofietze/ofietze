@@ -7,7 +7,7 @@
 
 - 📫 [Send me a mail](mailto:tide-docents0v@icloud.com)
 
-- 📄 Know about my experiences coming soon
+- 📄 Know about my experiences *coming soon*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
