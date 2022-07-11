@@ -1,13 +1,13 @@
-<h1 align="center">Hello there 👋, I'm Oli</h1>
+<h1 align="center">Hello there 👋 I'm Oli</h1>
 <h3 align="center">Your passionate full stack developer from Germany</h3>
 
-- 🔭 I’m currently working on **A social network and minor projects to sidetrack me**
+- 🌱 Learning **to build a social network with the MERNG stack**
 
-- 🌱 I’m currently learning **to build a social network with the MERNG stack**
+- 🔭 Working on **the social network and minor projects to sidetrack me**
 
-- 📫 How to reach me **tide-docents0v@icloud.com**
+- 📫 [Send me a mail](mailto:tide-docents0v@icloud.com)
 
-- 📄 Know about my experiences [coming soon](coming soon)
+- 📄 Know about my experiences coming soon
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
